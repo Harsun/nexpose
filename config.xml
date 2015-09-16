@@ -1,0 +1,7 @@
+<config>
+    <host>hostname</host>
+    <port>3780</port>
+    <user_name>username</user_name>
+    <user_pass>passpord</user_pass>
+    <url>/api/1.2/xml</url>
+</config>

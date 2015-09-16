@@ -161,7 +161,7 @@ except:
     exit(-1)
 
 if(vervar="on"):
-    print "Response status: %s % Response reason: %s" % (response.status, response.reason)
+    print "Response status: %s Response reason: %s" % (response.status, response.reason)
 data = response.read()
 
 if(vervar="on"):
